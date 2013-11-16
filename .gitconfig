@@ -1,0 +1,13 @@
+[user]
+	name = Andrea D'Amico
+	email = andrea.damico@gmail.com
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[core]
+	excludesfile = ~/.gitignore_global
+  editor = vim
+[alias]
+	co = checkout
